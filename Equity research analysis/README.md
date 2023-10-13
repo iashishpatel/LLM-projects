@@ -1,4 +1,4 @@
-#"Equity research analysis"
+# "Equity research analysis"
 
 we will build news research tool where you can give news article URLs and asked the question and it will give you answer based on that article's. we will use langchain, openai API, and streamlit to build a news research tool that can be used by equity research analysts to conduct their research
 
@@ -10,7 +10,7 @@ we will build news research tool where you can give news article URLs and asked 
 ![Modern Yellow Pastel Business Strategy Diagram Brainstorm](https://github.com/iashishpatel/LLM-projects/assets/85991377/9cbb3842-902c-4df9-84fa-ce9234a6c016)
 
 
-###Application Screenshot
+### Application Screenshot
 
 ![Screenshot 2023-10-13 215705](https://github.com/iashishpatel/LLM-projects/assets/85991377/822aa8ca-1297-4a5c-bf08-62a90650047c)
 
